@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"20b3f53e29062e33","type":"group","x":-360,"y":760,"width":1440,"height":1040,"color":"2","label":"Servicios de Amazon + Storages Distribuidos"},
+		{"id":"106a66bfa4c84616","type":"group","x":800,"y":-360,"width":1040,"height":1000,"color":"1","label":"Consenso y Coordinación"},
+		{"id":"bef3c0850bd8f489","type":"group","x":-360,"y":-360,"width":1000,"height":560,"color":"5","label":"Servicios de Google"},
+		{"id":"ddb5362af457a79c","type":"group","x":1280,"y":760,"width":560,"height":520,"color":"4","label":"Misc. (No sé cómo categorizar)"},
+		{"id":"d19f06c8ce07012e","type":"group","x":2040,"y":-360,"width":480,"height":560,"label":"FINALES"},
+		{"id":"32ddb4227a9b2ce0","type":"file","file":"estudios/facultad/Sistemas Distribuidos I/04-google-file-system.md","x":160,"y":-280,"width":400,"height":400},
+		{"id":"11fd4c85cdc2e212","type":"file","file":"estudios/facultad/Sistemas Distribuidos I/02-map-reduce.md","x":-320,"y":-280,"width":400,"height":400},
+		{"id":"c8b344039272ca19","type":"file","file":"estudios/facultad/Sistemas Distribuidos I/10-dynamodb.md","x":160,"y":823,"width":400,"height":400},
+		{"id":"db6a134f984a7a48","type":"file","file":"estudios/facultad/Sistemas Distribuidos I/09-dynamo.md","x":-320,"y":823,"width":400,"height":400},
+		{"id":"1b94a18e4e26b5a1","type":"file","file":"estudios/facultad/Sistemas Distribuidos I/11-transacciones-distribuidas.md","x":640,"y":823,"width":400,"height":400},
+		{"id":"b24da768ae9d9f23","type":"file","file":"estudios/facultad/Sistemas Distribuidos I/13-spanner.md","x":-320,"y":1320,"width":400,"height":400},
+		{"id":"3df16facea2591fa","type":"file","file":"estudios/facultad/Sistemas Distribuidos I/08-consistencia-caches.md","x":160,"y":1320,"width":400,"height":400},
+		{"id":"a93980b2db9f6e64","type":"file","file":"estudios/facultad/Sistemas Distribuidos I/03-replicacion-sharding.md","x":880,"y":-280,"width":400,"height":400},
+		{"id":"a3a96a176047b7fe","type":"file","file":"estudios/facultad/Sistemas Distribuidos I/05-raft.md","x":1360,"y":-280,"width":400,"height":400},
+		{"id":"21328166d477aa9c","type":"file","file":"estudios/facultad/Sistemas Distribuidos I/06-linealizabilidad.md","x":880,"y":200,"width":400,"height":400},
+		{"id":"0584357e6a6f54bd","type":"file","file":"estudios/facultad/Sistemas Distribuidos I/07-zookeeper.md","x":1360,"y":200,"width":400,"height":400},
+		{"id":"424a82320f0186c0","type":"file","file":"estudios/facultad/Sistemas Distribuidos I/12-bitcoin.md","x":1360,"y":823,"width":400,"height":400},
+		{"id":"3336a256db9933c9","type":"file","file":"estudios/facultad/Sistemas Distribuidos I/finales/final-16-12-25.canvas","x":2080,"y":-280,"width":400,"height":400},
+		{"id":"18211e95c3d2c96b","type":"text","text":"SISTEMAS DISTRIBUIDOS I","x":860,"y":-740,"width":265,"height":50,"color":"1"},
+		{"id":"e547a9636e6a9611","x":1320,"y":-985,"width":400,"height":540,"type":"link","url":"https://fiubata050.github.io/"}
+	],
+	"edges":[
+		{"id":"2b713c6e0fc25bdc","fromNode":"18211e95c3d2c96b","fromSide":"right","toNode":"e547a9636e6a9611","toSide":"left"}
+	]
+}
